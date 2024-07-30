@@ -1,0 +1,108 @@
+var _STRINGS = {
+	"Ad":{
+		"Mobile":{
+			"Preroll":{
+				"ReadyIn":"The game is ready in ",
+				"Loading":"Your game is loading...",
+				"Close":"Close",
+			},
+			"Header":{
+				"ReadyIn":"The game is ready in ",
+				"Loading":"Your game is loading...",
+				"Close":"Close",
+			},
+			"End":{
+				"ReadyIn":"Advertisement ends in ",
+				"Loading":"Please wait ...",
+				"Close":"Close",
+			},								
+		},
+	},
+	
+	"Splash":{
+		"Loading":"Loading ...",	
+		"LogoLine1":"Some text here",
+		"LogoLine2":"powered by MarketJS",
+		"LogoLine3":"none",		
+        "TapToStart":"TAP TO START",				
+	},
+
+	"Game":{
+		"Settings":"SETTINGS",
+		"IdleCash": "IDLE INCOME",
+		"Cash": "CASH",
+		"Buy": "NEW FLOOR",
+		"Unlock": "UNLOCK",
+		"Level": "LEVEL",
+		"Mineshaft": "COWORKING SPACE",
+		"Elevator": "SERVER",
+		"Warehouse": "SALES OFFICE",
+		"Upgrade": "UPGRADE",
+		"Manager" : "MANAGER",
+		"ManagerHire": "MANAGER HIRING",
+		"Startup" : "STARTUP",
+		"Hire": "HIRE",
+		"Max": "MAX",
+		"Ok" : "OK",
+		"On" : "ON",
+		"OFF" : "OFF",
+		"BGM" : "BGM",
+		"SFX" : "SFX",
+		"Yes" : "YES",
+		"No" : "NO",
+		"Hour" : "Hr",
+		"Minute" : "Min",
+		"Second" : "Sec",
+		"Offline": "OFFLINE EARNINGS", 
+		"InvestorTitle": "INITIAL PUBLIC OFFERING (IPO)",
+		"Reset": "RESET",
+		"Effect": "EFFECT",
+		"ActiveSkill": "ACTIVE SKILL",
+		"Profit": "PROFIT",
+		"AllProfit": "ALL BUSINESS PROFIT",
+		"Speed": "SPEED",
+		"Products": ["FOOD DELIVERY APP", "MOBILE GAME", "RIDESHARING APP", "LIVESTREAMING APP", "INTERNET OF THINGS", "INFOSEC", "DRONES", "AI PLATFORM", "SUBORBITAL SPACE"],
+		"ManagerSkillDesc": "Double speed for 30s (cooldown 5 min)",
+		"ConfirmationTitle": "CONFIRM RESTARTING",
+		"MineshaftUpgrade": ["TOTAL REVENUE", "PROGRAMMERS", "WALKING SPEED", "WORKING SPEED", "WORKER CAPACITY"],
+		"WarehouseUpgrade": ["TOTAL TRANSPORTED", "WALKING SPEED", "LOADING SPEED", "LOAD"],
+		"ElevatorUpgrade" : ["TOTAL TRANSPORTED", "LOAD", "MOVEMENT SPEED", "LOADING SPEED"],
+		"OfflineDesc1" : "YOU'VE BEEN AWAY FOR",
+		"OfflineDesc2" : "YOU'VE EARNED",
+		"MineshaftManagerName" : "PROJECT MANAGER",
+		"ElevatorManagerName" : "SERVER ENGINEER", // edited
+		"WarehouseManagerName" : "SALES MANAGER",
+		"TotalInvestor": "TOTAL IPO :",
+		"InvestorBonus": "IPO BONUS PROFIT :",
+		"InvestorGain": "IPO GAINED BY RESTART :", 
+		"ConfimationDesc" : "Are you sure you want to restart your progress in exchange for an investment?", 
+		"InvestorDesc": "ALL IN GAME PROGRESS WILL BE RESET TO ZERO IN EXCHANGE FOR BETTER PROFIT", 
+		"NextUpgrade": "NEXT UPGRADE : ",
+		"IdleCashDesc": "Idle Income is the amount of money your workers generate per second when you are not actively playing. Once you return to your game, you can collect your idle income and it will be added to your total cash.",
+		"ProfitUpgradeDesc" : "INCREASE [NAME]'S PROFIT BY [VALUE]",
+		"SpeedUpgradeDesc" : "INCREASE [NAME]'S WORK SPEED BY [VALUE]",
+		"AllDesc": "COWORKING SPACE, SERVER, AND SALES OFFICE",
+		"StartManagerDesc" : "AUTOMATE [NAME]'S WORKING PROCESS", 
+		"TutorialDialog": ["Let's buy our first coworking space.", 
+							"Tap on this Programmer to initiate the startup idea.",  
+							"Our first startup is a Food Delivery App! Tap on this engineer to move the server up.", // edited
+							"Lastly, tap on this worker to transfer the product to our sales office.", // edited
+							"Let's upgrade our coworking space to increase our production output.", // edited 
+							"Awesome! We have enough money. Tap on the upgrade button.",  
+							"Continue the project, and I'll teach you something new once you reach $100.",
+							"Let's hire a manager to automate our process. This helps to generate passive income when you're away.",  
+							"Nice! We have enough money. Now we can relax.",  
+							"Let's tell the manager that they're doing a good job,", 
+							"Our startup has reached a certain level. Now, let's train our manager to improve their output.", 
+							"This costs quite a lot. Let's work hard to gather the money!", 
+						],
+		"TutorialInvestor": "Breaking news: an investor would like to invest in your startup!", // edited
+		"TutorialInvestorPopup": "If you accept their offer, we'll increase our profits significantly, but we'll have to start over.", 
+		"TutorialBarrier": "Oh no! This floor looks awful. We need to clean it first before we can build a new startup here.", // edited by Ben
+		"TutorialAfterBarrier": "Congratulations, the barrier have been unlocked! Let's build the first startup here!", // edited 
+	},
+
+	"Results":{
+		"Title":"High score",
+	},	
+};
